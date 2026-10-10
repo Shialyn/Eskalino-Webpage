@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.eskalino.de/sitemap.xml
+Sitemap: https://eskalino.de/sitemap.xml
